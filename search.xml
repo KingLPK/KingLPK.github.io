@@ -17,6 +17,19 @@
     
     
     <entry>
+      <title>技术随想</title>
+      <link href="/posts/dfb8a81f.html"/>
+      <url>/posts/dfb8a81f.html</url>
+      
+        <content type="html"><![CDATA[<p>这是文章内容<br>post之后皆为文章</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>好书推荐~</title>
       <link href="/posts/4623ca65.html"/>
       <url>/posts/4623ca65.html</url>
@@ -72,6 +85,25 @@
     </entry>
     
     
+    
+    <entry>
+      <title>test</title>
+      <link href="/posts/d87f7e0c.html"/>
+      <url>/posts/d87f7e0c.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="在post之下也可建文件夹"><a href="#在post之下也可建文件夹" class="headerlink" title="在post之下也可建文件夹"></a>在post之下也可建文件夹</h1><blockquote><p>新写的文章就可以放在这些文件夹下，方便分类管理….</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
     
@@ -82,6 +114,17 @@
       <url>/manifest.json</url>
       
         <content type="html"><![CDATA[{"name":"鲤栯克‘Blog","short_name":"鲤栯克‘Blog","theme_color":"#49b1f5","background_color":"#49b1f5","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/capibara_16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/capibara_32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/capibara_48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/capibara_64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/capibara_128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/dolphin_144.png","sizes":"144x144","type":"image/png"},{"src":"/img/siteicon/carps_512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>这是页面</title>
+      <link href="/%E9%A1%B5%E9%9D%A2.html"/>
+      <url>/%E9%A1%B5%E9%9D%A2.html</url>
+      
+        <content type="html"><![CDATA[<p>这里就是页面内容了…</p><blockquote><p>source之后皆为页面</p></blockquote>]]></content>
       
     </entry>
     
